@@ -1,16 +1,42 @@
-# React + Vite
+# Tic-Tac-Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📍 Live Demo: *(Add your live demo link here if deployed)*  
+📂 Repository: https://github.com/KunalSagar0615/tic-tac-toe
 
-Currently, two official plugins are available:
+## 🚀 About
+This is a browser-based **Tic-Tac-Toe game** built using **JavaScript**, **HTML**, and **CSS**. It allows two players to enjoy a classic Tic-Tac-Toe match with an interactive interface. The game checks for wins and draws, and resets for new rounds.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
+- Two-player gameplay
+- Win and Draw detection
+- Score tracking (optional extension)
+- Clean and responsive UI
+- Built using vanilla JavaScript
 
-## React Compiler
+## 🛠 Tech Stack
+- **JavaScript**
+- **HTML**
+- **CSS**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💡 How It Works
+Players take turns clicking on grid cells to place **X** or **O**. The game automatically detects when one player wins or when the board results in a draw. After a match, players can restart the game.
 
-## Expanding the ESLint configuration
+## 🌟 Why This Project
+This Tic-Tac-Toe game:
+- Demonstrates DOM updates in JavaScript
+- Handles game logic and state
+- Offers interactive UI/UX
+- Is a fun way to practice frontend fundamentals
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 What’s Included
+✔ Interactive game board  
+✔ Turn-based play  
+✔ Win and draw condition checks  
+✔ Restart option  
+
+## 📫 Next Enhancements
+You could further expand this project by adding:
+- AI player (single-player mode)
+- Scoreboard
+- Themes / animations
+
