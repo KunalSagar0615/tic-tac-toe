@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-📍 Live Demo: *(Add your live demo link here if deployed)*  
+📍 Live Demo: https://kunals-tic-tac-toe-webapp.netlify.app/
 📂 Repository: https://github.com/KunalSagar0615/tic-tac-toe
 
 ## 🚀 About
